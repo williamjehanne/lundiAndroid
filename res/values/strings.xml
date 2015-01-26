@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LundiAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="salut_le_monde">Salut le mnde !</string>
+    <string name="cle_bouton">clique ici</string>
+    <string name="cliquer_pour_afficher">cliquer pour afficher blaa</string>
+
+</resources>
